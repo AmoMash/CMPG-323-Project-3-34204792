@@ -17,6 +17,10 @@ TelemetryPortal_MVC is a web application designed to manage client and project i
 - SQL Server 2022 Express or compatible database
 - Visual Studio 2022
 
+## Project Files
+
+- In the master branch
+
 ## Setup Instructions
 
 1. **Clone the Repository:**
