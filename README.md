@@ -73,4 +73,4 @@ TelemetryPortal_MVC is a web application designed to manage client and project i
 - **Projects**: Manage project information via the Projects section.
 
 ## Reference List
-- Here is the document with recources used to complete project 3 [Project3References.docx]
+- Here is the document with recources used to complete project 3 
